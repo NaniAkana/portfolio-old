@@ -1,0 +1,95 @@
+@media (max-width:995px) {
+    .header2 {
+
+        display: inline-block;
+        height: 130vh;
+        width: 230vw;
+
+    }
+    .navbar{
+        width: 230vw;
+    }
+
+    .card1 {
+        width: 230vw;
+        font-size: 15px;
+      display: inline-flex;
+      align-items: center;
+      flex-direction: column;
+      align-content: center;
+      justify-content: center;
+       
+    }
+    hr{
+        width: 230vw;
+        color: red;
+        background-color: red;
+    }
+
+    .card-body ul {
+        /* margin-left: -80px; */
+        display: flex;
+        align-items: center;
+
+    }
+
+    .img-thumbnails {
+        /* margin-left: 250px; */
+        margin-top: 40px;
+        margin-left: 180px;
+        
+     
+    }
+
+    .About{
+        width: 230vw;
+        height: 1000px;
+    }
+    .about{
+        height: 1200px;
+        width: 230vw;
+    }
+    .image{
+        display: inline-block;
+        
+        
+    }
+    image img{
+        /* margin-left: 900vw; */
+        display: flex;
+        align-items: center;
+    }
+    .matter{
+        margin-left: -10px;
+    }
+    .pro{
+        display: inline-block;
+    }
+    .pro-inner{
+        /* margin-left: 220px; */
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+    .prgress{
+        width: 230vw;
+        height: 1200px;
+    }
+    .skill img{
+        margin-top: -50px;
+        margin-left: 200px;
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+}
+
+@media (max-width:1016px) and (min-width:816px) {
+    .header2 {
+        width: 900px;
+        
+    }
+
+}
